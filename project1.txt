@@ -1,3 +1,5 @@
 Thêm Label UserName, textboxx: txtUserName
 
-them lable matkhau
+Sua lable matkhau -> password,txtmatkhau, txtpassword
+
+them nut btnlogin
